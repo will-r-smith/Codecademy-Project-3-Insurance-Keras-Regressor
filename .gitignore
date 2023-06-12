@@ -1,0 +1,10 @@
+# pycache
+__pycache__/
+
+# Virtual Environments
+.venv
+venv/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
